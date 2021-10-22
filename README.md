@@ -1,3 +1,3 @@
 # A simple react page
 
-This is a aimple page made with react
+This is a a simple page made with react
